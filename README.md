@@ -8,7 +8,7 @@ Hi there 👋 I'm PhiAnh
 class MyInfor {
   constructor() {
     this.fullName = "Nguyễn Phi Anh";
-    this.yearBirth = 2003;
+    this.yearBirth = 2002;
     this.gender = "Nam";
     this.address = "Hà Nội, Việt Nam";
     this.colleges = "FPT Polytechnic";
